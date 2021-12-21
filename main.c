@@ -13,6 +13,9 @@ Security Patch()
 {
  //Security code
 }
-
+Feature B ()
+{
+ //Feature B Code
+}
 
 }
