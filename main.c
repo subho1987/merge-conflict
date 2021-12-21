@@ -17,6 +17,8 @@ Feature A()
 {
  //Feature A Code
 }
-
-
+Feature B ()
+{
+ //Feature B Code
+}
 }
