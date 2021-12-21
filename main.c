@@ -13,6 +13,10 @@ Security Patch()
 {
  //Security code
 }
+Feature A()
+{
+ //Feature A Code
+}
 
 
 }
